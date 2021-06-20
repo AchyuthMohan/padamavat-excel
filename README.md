@@ -1,11 +1,11 @@
 # Padmavat-movie
 
 
-Link:https://achyuthmohan.github.io/Padmavat-movie/
+Link:https://achyuthmohan.github.io/padamavat-excel/
 
 This is just a website which describes a movie. Here I have included a small plot and additional informations about the movie.
 
-#About me
+# About me
 
 Actually I'm a full Stacy web developer.
 
